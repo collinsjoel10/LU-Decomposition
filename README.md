@@ -47,6 +47,7 @@ print(solution)
 
 ## Output:
 ![output](ludecomposition.png)
+![output](ludecomposition2.png)
 
 
 ## Result:
